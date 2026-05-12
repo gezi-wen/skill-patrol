@@ -1,0 +1,13 @@
+{
+  "week": 1,
+  "sources": [
+    "skills.dev排行榜",
+    "punkpeye/awesome-mcp-servers",
+    "anthropics/skills官方",
+    "hesreallyhim/awesome-claude-code",
+    "ComposioHQ/awesome-claude-skills",
+    "Reddit r/ClaudeCode",
+    "shanraisshan/claude-code-best-practice",
+    "npm claude-code新包"
+  ]
+}
